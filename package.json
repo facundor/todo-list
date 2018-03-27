@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/facundor/todo-list/issues"
   },
-  "homepage": "https://github.com/facundor/todo-list#readme"
+  "homepage": "https://github.com/facundor/todo-list#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
